@@ -112,7 +112,3 @@ help or help <command> Ex:
 * Amenity
 * Place
 * Review
-
-# Authors
-* Aiko Mi - <1205@holbertonschool.com>
-* Pablo Andres Urbano - <1283@holbertonschool.com>
